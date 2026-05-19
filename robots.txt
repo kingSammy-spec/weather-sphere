@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weather-sphere-lyart.vercel.app/sitemap.xml
